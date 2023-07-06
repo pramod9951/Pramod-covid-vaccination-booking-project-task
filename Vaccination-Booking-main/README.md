@@ -100,14 +100,17 @@ b. Admin
 1. Home.html
    ![image]<img width="905" alt="pramod admin page" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/fb9405c9-abd8-4edd-a639-5dafbec8e628">
 2. Sign-Up.html
-   ![image]<img width="919" alt="pramod 2" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/cb4a333c-ee0b-46c0-a5b9-6673bf5adf98">
-3. Sign-In.html / Admin-Login.html
    ![image]
+   <img width="917" alt="pramod4" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/5f85d00c-06d7-485c-a68b-03f1677194af">
+3. Sign-In.html / Admin-Login.html
+   ![image]<img width="919" alt="pramod 2" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/cb4a333c-ee0b-46c0-a5b9-6673bf5adf98">
+<img width="928" alt="pramod sign uo" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/d06c55c4-f629-48e5-92c9-025a7361ffce">
+<img width="917" alt="pramod4" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/5f85d00c-06d7-485c-a68b-03f1677194af">
 4. Book-Slots.html
    ![image]<img width="907" alt="pramod3" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/50459446-7a36-42a3-8db4-f9132bf06180">
 
 5. Admin-Dashboard.html
-   ![image]   
+   ![image]<img width="908" alt="pramod5" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/80fd4dc1-b768-41f1-83b7-5d734fc956d5">
    
 ## Flask App Setup
 1. Create a new file called `app.py` in your Replit project.
