@@ -98,7 +98,7 @@ b. Admin
 
 ## Rough Wireframe for Each Page
 1. Home.html
-   ![image]
+   ![image](https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/34e00c6d-6dfb-4d4f-9f97-922386293e27)
 2. Sign-Up.html
    ![image]
 3. Sign-In.html / Admin-Login.html
