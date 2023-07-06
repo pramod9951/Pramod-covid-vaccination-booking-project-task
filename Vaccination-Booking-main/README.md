@@ -102,7 +102,7 @@ b. Admin
 2. Sign-Up.html
    ![image]<img width="905" alt="pramod admin page" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/fb9405c9-abd8-4edd-a639-5dafbec8e628">
 3. Sign-In.html / Admin-Login.html
-   ![image]
+   ![image]<img width="919" alt="pramod 2" src="https://github.com/pramod9951/Pramod-covid-vaccination-booking-project-task/assets/87662603/cb4a333c-ee0b-46c0-a5b9-6673bf5adf98">
 4. Book-Slots.html
    ![image]
 5. Admin-Dashboard.html
