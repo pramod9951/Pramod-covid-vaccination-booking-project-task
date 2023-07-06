@@ -8,7 +8,7 @@ cursor = connection.cursor()
 
 # Data to be inserted
 data = [
-    (1, 'Master Admin', '201501502@rajalakshmi.edu.in', '2552', 1)
+    (1, 'Master Admin', 'pramodm56789@gmail.com', '2552', 1)
 ]
 
 # Iterate over the data and insert into the Admin table
